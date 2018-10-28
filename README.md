@@ -1,2 +1,2 @@
 # CodingPractice
-Solutions to problems on Leet Code.
+Solutions to problems on different competitive programming platforms.
